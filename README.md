@@ -17,12 +17,14 @@ Students are required to used core dataset of West Midlands Police from https://
 
 
 # Getting Stated
-The Main Analysis was performed in Google Colab using Python coding, once log in with an google account, the whole pipeline enables click and go without addtional work in theory.
+The Main Analysis was performed in Google Colab using Python coding, once logged in with an google account, the whole pipeline enables click and run without addtional work in theory.
 
  Open Main_Analysis.ipynb in Github from below link, Click on the Google Colab Badge, file will open in Goodgle colab
 * [Main_Analysis.ipynb](https://github.com/zhangwiki86-soton/L7---Data-Analysis-and-Visualisation/blob/main/DRAFT%20Test%20Glob.ipynb)
 
-Once logged in with google acount, codes can be run if wish to, codes will install all the packages and libiaries needed for the project, and read all the data saved on this public repository for analysis and visualisation.
+All python codes are run and saved with outputs. should wish to run and test the codes, once logged in with Google acount, codes can be run by clicking on the run cell at the start of each code line, or using (Ctrl+Enter); click 'Run Anyway' if asked.
+
+Codes will install all the packages and libiaries needed for the project, and read all the data saved on this public repository for analysis and visualisation.
 
 If you wish to use other tools to run Main_Analysis.ipynb, please read 
 * [requirment.txt]

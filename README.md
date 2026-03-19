@@ -9,8 +9,39 @@ Students are required to used core dataset of West Midlands Police from https://
 
 
 # Data source
-* Main data
-* Supplimentary data
+* [Core dataset](https://data.police.uk/data/)
+* Supplimentary data   -    Workforce data
+  /LSOA data (Deprivation, Education)
+  /Staffordshire Data
+* Referrence data - links to come
+
+
+# Getting Stated
+Please read requirment.txt
+The Main Analysis was performed in Google Colab using Python coding, once log in with an google account, the whole pipeline enables click and go without addtional work in theory.
+
+ Open Main_Analysis.ipynb in Google Colab, 
+* [Main_Analysis.ipynb](https://github.com/zhangwiki86-soton/L7---Data-Analysis-and-Visualisation/blob/main/DRAFT%20Test%20Glob.ipynb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Peer Police

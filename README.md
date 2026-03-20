@@ -18,7 +18,7 @@ Used core dataset of West Midlands Police from https://data.police.uk/data/ from
 * Reference data - links to come (those used for validating if our output is about right)
 
 
-# Getting Started
+# Getting started
 The python coding in this project was completed within Google Colab, as it is a hosted Jupyter Notebook service that requires no setup to use, hence it is recommended to use Colab to read this project for easiness, the only technical requirement is having a Google account to sign in Colab in order to utilise its full features.
 
 To run the ipynb file

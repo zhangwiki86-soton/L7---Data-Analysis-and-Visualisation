@@ -27,7 +27,7 @@ The Main Analysis was performed in Google Colab using Python coding, once logged
 3. All python codes are run and saved with outputs, should wish to run and test the codes, log in Google Colab with a Google acount, codes can be run by clicking on the run cell at the start of each code line, or use Ctrl+Enter
 4. Click 'Run Anyway' if asked
 
-# Clone a repository, package installation
+# Clone a repository, package installation, Download files
   Codes in the ipynb file will install all the packages and libiaries needed for the project, clone and read all the data saved on this public repository for analysis and visualisation.
   Otherwise, see details in [requirment.txt]
 

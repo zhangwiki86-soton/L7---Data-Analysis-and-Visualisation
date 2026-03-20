@@ -31,8 +31,3 @@ The Main Analysis was performed in Google Colab using Python coding, once logged
   Codes in the ipynb file will install all the packages and libiaries needed for the project, clone and read all the data saved on this public repository for analysis and visualisation.
   Otherwise, see details in [requirment.txt]
 
-
-Analysis
-
-
-# Summary

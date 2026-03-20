@@ -32,8 +32,7 @@ The python coding in this project was completed within Google Colab, as it is a 
 
 Below requirements are already satisfied in the project coding, listed for information if tools other than Google Colab need to be used to run the ipynb file. 
   Codes in the ipynb file will install all the packages and libiaries needed for the project, clone and read all the data saved on this public repository for analysis and visualisation.
-  Otherwise, see details in [requirment.txt]
-
+  Otherwise, see details in [requirment.txt](https://github.com/zhangwiki86-soton/L7---Data-Analysis-and-Visualisation/blob/main/requirements.txt)
 * Libraries
 matplotlib==3.10.8
 numpy==2.0.2

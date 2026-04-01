@@ -6,3 +6,4 @@ panel==1.8.10
 hvplot==0.12.2
 jupyter_bokeh==4.0.5
 glob2==0.7
+geoviews==1.15.1

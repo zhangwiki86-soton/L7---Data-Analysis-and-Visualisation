@@ -1,4 +1,4 @@
-# About this repository
+# Content
 
 This branch is set up for the Assessment Project of **COMM035DA - Data Analysis and Visualisation in Level 7 Digital and Technology Solutions (MSc Integrated Degree Apprenticeship)**. 
 All relevant datasets and files in relation to the Project are saved in this branch.

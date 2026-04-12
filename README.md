@@ -22,9 +22,9 @@ The python coding in this project was completed within Google Colab, as it is a 
 
 To run the ipynb file
 1. Open Main_Analysis.ipynb in GitHub from below link
-[Main_Analysis.ipynb](https://github.com/zhangwiki86-soton/L7---Data-Analysis-and-Visualisation/blob/main/DRAFT%20Test%20Glob.ipynb)
-2. Click on the **Google Colab Badge**, file will open in Google Colab
-3. All python codes are run and saved with outputs currently, should wish to run and test the codes, log in Google Colab with a Google account, codes can be run by clicking on the run cell at the start of each code line, or use **Ctrl+Enter**
+[Main_Analysis.ipynb](https://github.com/zhangwiki86-soton/L7---Data-Analysis-and-Visualisation/blob/main/main_analysis.ipynb)
+2. Click on the **Open in Colab** Badge, file will open in Google Colab
+3. All python codes are run and saved with outputs currently, **although please note output like interactive plots by hvplot won't be shown in the .ipynb file unless viewed in a live Colab window**, should wish to run and test codes and plots, log in Google Colab with a Google account, codes can be run by clicking on the run cell at the start of each code line, or use **Ctrl+Enter**
 4. Click '**Run Anyway**' if asked
 
 ## Clone a repository, package installation

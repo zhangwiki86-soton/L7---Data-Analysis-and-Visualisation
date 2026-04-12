@@ -25,8 +25,8 @@ To run the ipynb file
 
 2. Click on the **Open in Colab** Badge, file will open in Google Colab.
 3. All python codes are run and saved with outputs currently, **although please note output like interactive plots by hvplot may not display in the .ipynb file unless viewed in a live Colab window**, should wish to run and test Python codes and all charts, please log in Google Colab with a Google account.
-4. Python codes can be run by clicking on the run cell at the start of each code line, or use **Ctrl+Enter**, Click '**Run Anyway**' if asked.
+4. Python codes can be run by clicking on the run cell at the start of each code line, or use **Ctrl+Enter**, click '**Run Anyway**' if asked.
 
 ## Clone a repository, package installation
-Codes in the ipynb file will install all the packages or libraries needed for the project, clone and read all the data saved on the public repository for analysis and visualisation.
+Codes in the ipynb file will install all the packages and libraries needed for the project, clone and read all the data saved on the public repository for analysis and visualisation.
 If tools other than Colab are intended to be used, please see details for requirements [requirements.txt](https://github.com/zhangwiki86-soton/L7---Data-Analysis-and-Visualisation/blob/main/requirements.txt).
